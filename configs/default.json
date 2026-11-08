@@ -1,0 +1,16 @@
+{
+  "context": 30,
+  "horizons": [7, 14, 28],
+  "history_insufficient": [30, 70],
+  "views": [[7, 1], [14, 1], [30, 1], [14, 2]],
+  "paper_encoder_dim": 1280,
+  "paper_projection_dim": 640,
+  "paper_graph_degree": 5,
+  "paper_ca_k": 2,
+  "paper_sa_k": 3,
+  "paper_lifecycle_tolerance": 7,
+  "paper_two_hop_weight": 0.5,
+  "paper_mixup_alpha": 0.4,
+  "seasonal_period": 7,
+  "note": "This config records reported settings; src/liga/config.py uses a lightweight demo encoder with smaller dimensions."
+}
