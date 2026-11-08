@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "If you use this reference code, please cite the associated manuscript."
+title: "Forecasting Before History Matures: Lifecycle-Aligned Multi-View Graph Augmentation for Financial Product Sales"
+type: software
+version: 0.1.0
+# Author names and DOI intentionally not invented. Fill with official metadata before release.
